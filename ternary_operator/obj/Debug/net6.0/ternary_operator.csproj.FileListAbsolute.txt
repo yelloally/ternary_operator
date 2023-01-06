@@ -1,0 +1,15 @@
+/Users/yellobunny/Projects/Studying/ternary_operator/bin/Debug/net6.0/ternary_operator
+/Users/yellobunny/Projects/Studying/ternary_operator/bin/Debug/net6.0/ternary_operator.deps.json
+/Users/yellobunny/Projects/Studying/ternary_operator/bin/Debug/net6.0/ternary_operator.runtimeconfig.json
+/Users/yellobunny/Projects/Studying/ternary_operator/bin/Debug/net6.0/ternary_operator.dll
+/Users/yellobunny/Projects/Studying/ternary_operator/bin/Debug/net6.0/ternary_operator.pdb
+/Users/yellobunny/Projects/Studying/ternary_operator/obj/Debug/net6.0/ternary_operator.csproj.AssemblyReference.cache
+/Users/yellobunny/Projects/Studying/ternary_operator/obj/Debug/net6.0/ternary_operator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yellobunny/Projects/Studying/ternary_operator/obj/Debug/net6.0/ternary_operator.AssemblyInfoInputs.cache
+/Users/yellobunny/Projects/Studying/ternary_operator/obj/Debug/net6.0/ternary_operator.AssemblyInfo.cs
+/Users/yellobunny/Projects/Studying/ternary_operator/obj/Debug/net6.0/ternary_operator.csproj.CoreCompileInputs.cache
+/Users/yellobunny/Projects/Studying/ternary_operator/obj/Debug/net6.0/ternary_operator.dll
+/Users/yellobunny/Projects/Studying/ternary_operator/obj/Debug/net6.0/refint/ternary_operator.dll
+/Users/yellobunny/Projects/Studying/ternary_operator/obj/Debug/net6.0/ternary_operator.pdb
+/Users/yellobunny/Projects/Studying/ternary_operator/obj/Debug/net6.0/ternary_operator.genruntimeconfig.cache
+/Users/yellobunny/Projects/Studying/ternary_operator/obj/Debug/net6.0/ref/ternary_operator.dll
