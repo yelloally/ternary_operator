@@ -1,0 +1,1 @@
+my program is used with ternary operator, which can recognize the correct password.
